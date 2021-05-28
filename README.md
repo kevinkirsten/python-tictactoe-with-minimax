@@ -7,6 +7,12 @@ Utilizado como parte da avaliação para a disciplina MAC0425 - Inteligência Ar
 
 Ministrada pelo Professor Dr. Flavio Soares Correa da Silva do IME-USP (Instituto de Matemática e Estatística da Universidade de São Paulo)
 
+## Execute na nuvem
+
+Acesse e teste este código em:
+
+[https://replit.com/@kevinkirsten/python-tictactoe-with-minimax#tictactoe-with-minimax.py](https://replit.com/@kevinkirsten/python-tictactoe-with-minimax#tictactoe-with-minimax.py)
+
 ## Execute Localmente
 
 Certifique-se de ter o [Python 3](https://www.python.org/) instalado.
