@@ -11,7 +11,7 @@ Ministrada pelo Professor Dr. Flavio Soares Correa da Silva do IME-USP (Institut
 
 Acesse e teste este código em:
 
-[https://replit.com/@kevinkirsten/python-tictactoe-with-minimax#tictactoe-with-minimax.py](https://replit.com/@kevinkirsten/python-tictactoe-with-minimax#tictactoe-with-minimax.py)
+[https://replit.com/@kevinkirsten/python-tictactoe-with-minimax](https://replit.com/@kevinkirsten/python-tictactoe-with-minimax)
 
 ## Execute Localmente
 
